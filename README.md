@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I'm a Full-Stack Software Engineer!
 
-<!--
-**shreyas-segu/shreyas-segu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in working on the cutting edge technologies, across all different parts of the SDLC including but not limited to the 
+Front-end, Back-end, Testing, Devops and Infrastructure.
+Capable of product delivery end to end.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Strong hand on working with these technologies
+- Angular, React, Vue
+- NodeJS, Spring Boot, Netflix OSS Stack
+- Kong, Lua
+- Typescript, Java, Javascript
+- Postgresql, MongoDB, Redis, Cassandra
+- Docker, Kubernetes, Istio, Consul
+- Spinnaker, Jenkins, Terraform
+- Amazon Web Services
+- Junit, Jasmine, Mocha, Cucumber
