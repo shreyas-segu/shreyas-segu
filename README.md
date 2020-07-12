@@ -1,16 +1,29 @@
-### Hi there I'm a Full-Stack Software Engineer!
+### Hi there I'm a Full-Stack Software Engineer! :rocket: 
 
-Interested in working on the cutting edge technologies, across all different parts of the SDLC including but not limited to the 
+![Linkedin](https://img.shields.io/badge/Linkedin-connect-blue?style=for-the-badge&logo=linkedin?link=https://www.linkedin.com/in/shreyassegu/&link=https://https://www.linkedin.com/in/shreyassegu/)
+![Github](https://img.shields.io/badge/Github-follow-black?style=for-the-badge&logo=github?link=https://github.com/shreyas-segu&link=https://github.com/shreyas-segu)
+![Twitter](https://img.shields.io/badge/Twitter-follow?style=for-the-badge&logo=github?link=https://twitter.com/ShreyasSegu&link=https://twitter.com/ShreyasSegu)
+
+Interested in working on the cutting edge technologies, across all parts of the SDLC including but not limited to the 
 Front-end, Back-end, Testing, Devops and Infrastructure.
-Capable of product delivery end to end.
+Capable of product delivery end-to-end.
 
-Strong hand on working with these technologies
+Strong hand on working with these technologies :octocat:
 - Angular, React, Vue
 - NodeJS, Spring Boot, Netflix OSS Stack
-- Kong, Lua
+- Kong
 - Typescript, Java, Javascript
-- Postgresql, MongoDB, Redis, Cassandra
-- Docker, Kubernetes, Istio, Consul
-- Spinnaker, Jenkins, Terraform
-- Amazon Web Services
-- Junit, Jasmine, Mocha, Cucumber
+- Postgresql, MongoDB
+- Docker
+
+Goals for this year :books:
+- [ ] Kubernetes
+- [ ] Istio
+- [ ] Lua
+- [ ] Next.js
+- [ ] Cassandra
+- [ ] CI / CD using Spinnaker and Jenkins
+- [ ] AWS Lambda, iam, security groups, sqs
+- [ ] Terraform
+
+Reach out to me if you need any consultation with High level design and tech stack suggestions :smile:
