@@ -16,10 +16,9 @@ Goals for this year :books:
 - [ ] Kubernetes
 - [ ] Istio
 - [ ] Lua
-- [ ] Next.js
 - [ ] Cassandra
-- [ ] CI / CD using Spinnaker and Jenkins
 - [ ] AWS Lambda, iam, security groups, sqs
 - [ ] Terraform
+- [ ] gRPC
 
 Reach out to me if you need any consultation with High level design and tech stack suggestions :smile:
