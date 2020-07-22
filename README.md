@@ -4,7 +4,7 @@ Interested in working on the cutting edge technologies, across all parts of the 
 Front-end, Back-end, Testing, Devops and Infrastructure.
 Capable of product delivery end-to-end.
 
-Strong hand on working with these technologies :octocat:
+Strong hands-on experience on working with these technologies  :octocat:
 - Angular, React, Vue
 - NodeJS, Spring Boot, Netflix OSS Stack
 - Kong
@@ -12,13 +12,17 @@ Strong hand on working with these technologies :octocat:
 - Postgresql, MongoDB
 - Docker
 
-Goals for this year :books:
+Goals for this year 2020 :books:
 - [ ] Kubernetes
 - [ ] Istio
-- [ ] Lua
 - [ ] Cassandra
-- [ ] AWS Lambda, iam, security groups, sqs
-- [ ] Terraform
+- [ ] Amazon Web Services
 - [ ] gRPC
+
+Goals for 2021!
+- [ ] Data structures 
+- [ ] Algorithms
+- [ ] HLD and LLD
+- [ ] System Design and Architecture
 
 Reach out to me if you need any consultation with High level design and tech stack suggestions :smile:
