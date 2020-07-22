@@ -11,6 +11,7 @@ Strong hands-on experience on working with these technologies  :octocat:
 - Typescript, Java, Javascript
 - Postgresql, MongoDB
 - Docker
+- Apache Kafka
 
 Goals for this year 2020 :books:
 - [ ] Kubernetes
