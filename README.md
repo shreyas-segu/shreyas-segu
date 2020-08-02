@@ -5,10 +5,10 @@ Front-end, Back-end, Testing, Devops and Infrastructure.
 Capable of product delivery end-to-end.
 
 Strong hands-on experience on working with these technologies  :octocat:
-- Angular, React, Vue
 - NodeJS, Spring Boot, Netflix OSS Stack
 - Kong
 - Typescript, Java, Javascript
+- Angular, React, Vue
 - Postgresql, MongoDB
 - Docker
 - Apache Kafka
