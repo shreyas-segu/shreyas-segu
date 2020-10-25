@@ -8,7 +8,7 @@ Strong hands-on experience on working with these technologies  :octocat:
 - NodeJS, Spring Boot, Netflix OSS Stack
 - Kong
 - Typescript, Java, Javascript
-- Angular, React, Vue
+- Angular, Vue
 - Postgresql, MongoDB
 - Docker
 - Apache Kafka
