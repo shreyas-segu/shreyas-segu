@@ -20,13 +20,6 @@ Strong hands-on experience on working with these technologies  :octocat:
 <br/>
 ---
 
-Goals for this year 2020 :books:
-- [ ] Cassandra
-- [ ] Redis
-- [ ] GoLang
-- [ ] gRPC
-- [ ] Amazon Web Services
-
 Goals for 2021!
 - [ ] Data structures 
 - [ ] Algorithms
