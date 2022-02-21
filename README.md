@@ -29,6 +29,7 @@ Reach out to me if you need any consultation with High level design and tech sta
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-segu&layout=compact&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-segu&layout=compact&hide_border=true&count_private=true&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-segu&layout=compact&hide_border=true&count_private=true&theme=light#gh-light-mode-only)
 
 [Linkedin]: https://linkedin.com/in/shreyassegu/
