@@ -15,16 +15,10 @@ Strong hands-on experience on working with these technologies  :octocat:
 
 ![Metrics](/metrics.plugin.topics.icons.svg)
 
-### Connect with me
-[Linkedin]
-
 ---
 
-Goals for 2021!
-- [ ] Data structures 
-- [ ] Algorithms
-- [ ] HLD and LLD
-- [ ] System Design and Architecture
+### Connect with me
+[Linkedin]
 
 Reach out to me if you need any consultation with High level design and tech stack suggestions :smile:
 
