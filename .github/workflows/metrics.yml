@@ -10,7 +10,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-
       - name: Midly interesting facts
         uses: lowlighter/metrics@latest
         with:
@@ -19,4 +18,11 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-      
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          plugin_topics: yes
+          plugin_topics_limit: 20
+          plugin_topics_mode: icons
