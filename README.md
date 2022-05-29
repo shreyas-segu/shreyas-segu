@@ -13,8 +13,9 @@ Strong hands-on experience on working with these technologies  :octocat:
 - Docker, Kubernetes
 - Apache Kafka, Rabbit MQ
 
-### Connect with me
+![Metrics](/metrics.plugin.topics.icons.svg)
 
+### Connect with me
 [Linkedin]
 
 ---
@@ -29,8 +30,8 @@ Reach out to me if you need any consultation with High level design and tech sta
 
 ---
 ![Metrics](/metrics.plugin.habits.facts.svg)
-![Metrics](/metrics.plugin.topics.icons.svg)
-
+---
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shreyas-segu&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&dates=DD741D&border=C1C1C1" alt="My GitHub Streak" />
 
+<!-- Variables -->
 [Linkedin]: https://linkedin.com/in/shreyassegu/
