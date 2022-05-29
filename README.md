@@ -28,15 +28,8 @@ Goals for 2021!
 Reach out to me if you need any consultation with High level design and tech stack suggestions :smile:
 
 ---
-<a href="https://github.com/shreyas-segu#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-segu&count_private=true&hide=stars&theme=flag-india#gh-light-mode-only" alt="My GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-segu&layout=compact&count_private=true&theme=flag-india#gh-light-mode-only" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/shreyas-segu#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-segu&count_private=true&hide=stars&theme=discord_old_blurple#gh-dark-mode-only" alt="My GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-segu&layout=compact&count_private=true&theme=discord_old_blurple#gh-light-mode-only" alt="My GitHub Stats" />
-</a>
+![Metrics](/metrics.plugin.habits.facts.svg)
+![Metrics](/metrics.plugin.topics.icons.svg)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shreyas-segu&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&dates=DD741D&border=C1C1C1" alt="My GitHub Streak" />
 
