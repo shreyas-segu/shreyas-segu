@@ -18,11 +18,13 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
       - name: Midly interesting facts
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
