@@ -10,16 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Asia/Kolkata
-      - name: Default metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.base.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+
       - name: Midly interesting facts
         uses: lowlighter/metrics@latest
         with:
