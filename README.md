@@ -1,4 +1,4 @@
-### Hi there, I'm a Specialized Generalist Software Engineer! :rocket: 
+### Hi there, I'm a Specialized Generalist in the Software Engineering field! :rocket: 
 
 Interested in working on the cutting edge technologies, across all parts of the SDLC including but not limited to the 
 Front-end, Back-end, Testing, Devops and Infrastructure.
