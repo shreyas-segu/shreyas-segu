@@ -13,8 +13,6 @@ Strong hands-on experience on working with these technologies  :octocat:
 - Docker, Kubernetes
 - Apache Kafka, Rabbit MQ
 
-![Metrics](/metrics.plugin.topics.icons.svg)
-
 ---
 
 ### Connect with me
